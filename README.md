@@ -8,9 +8,9 @@ Steps to test PC for Windows 11 compatibility
 - Type `.\Windows11Compatibility.ps1` and press enter
 
 Results will be:
-- TPM Compatible       : True or False
-- Processor Compatible : True or False
-- 64 Bit OS            : True or False
+- TPM Compatible       : **True** or **False**
+- Processor Compatible : **True** or **False**
+- 64 Bit OS            : **True** or **False**
 
 For a system to be compatible with Windows 11, it must receive True for all three checks.
 
